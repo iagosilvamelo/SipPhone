@@ -8,5 +8,5 @@ var user = {
     // Display Name
     "Display" : "Iago Melo",
     // WebSocket URL
-    "WSServer"  : "wss://wss.sample.com:8443"
+    "WSServer"  : "ws://172.21.255.246:8088/asterisk/ws"
 };
